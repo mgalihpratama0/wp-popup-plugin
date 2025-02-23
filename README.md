@@ -30,8 +30,8 @@ Ini adalah halaman untuk mengetes popup.
 - Pop-up akan muncul saat halaman dimuat.
 ________________________________________
 Kontribusi
-Jika Anda ingin berkontribusi, silakan buka Pull Request atau laporkan masalah di Issues.
+- Jika Anda ingin berkontribusi, silakan buka Pull Request atau laporkan masalah di Issues.
 ________________________________________
 Pembuat
-•	Galih Pratama (mgalihpratama0)
+- Galih Pratama (mgalihpratama0)
 
